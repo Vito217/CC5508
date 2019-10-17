@@ -1,7 +1,1468 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df372207-7dd3-488b-8a62-2a20b5774072" name="Default Changelist" comment="" />
+    <list default="true" id="df372207-7dd3-488b-8a62-2a20b5774072" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_1/tarea_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/accordion/010049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020055.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020056.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020062.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020067.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020070.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020071.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/airplane/020075.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/anchor/030001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/anchor/030002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/anchor/030005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/anchor/030008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/anchor/030011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/anchor/030012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/anchor/030014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/anchor/030016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/anchor/030017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/anchor/030032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ant/040001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ant/040004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ant/040007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ant/040010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ant/040012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ant/040013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ant/040014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ant/040018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ant/040020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ant/040023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ant/040024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ant/040025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ant/040028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ant/040029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ant/040031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ant/040032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ant/040037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/barrel/050047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bass/060054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/beaver/070046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/binocular/080007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/binocular/080010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/binocular/080012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/binocular/080013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/binocular/080014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/binocular/080015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/binocular/080016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/binocular/080017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/binocular/080020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/binocular/080021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/binocular/080022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/binocular/080023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/binocular/080024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/binocular/080027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/binocular/080029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/binocular/080030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/binocular/080033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090068.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090070.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090076.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090090.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090095.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090096.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090099.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090120.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/bonsai/090128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brain/100062.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/brontosaurus/110042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120072.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120075.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120076.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120078.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120079.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120082.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120083.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120085.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/butterfly/120091.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/camera/130032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cannon/140043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150055.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150066.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150070.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150071.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150074.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150076.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150079.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150081.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150085.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150089.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150091.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150093.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150094.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150096.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150097.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150099.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/car_side/150100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/castle/160022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170056.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170057.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cellphone/170059.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180056.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/chair/180062.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cougar_body/190046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200056.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200057.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200066.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200068.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200069.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crayfish/200070.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/crocodile/210050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220056.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/cup/220057.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230056.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230062.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dalmatian/230066.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240055.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240057.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240059.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/dolphin/240065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250055.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250057.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250059.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/elephant/250063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/faces_easy/260030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270056.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ferry/270066.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280057.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280059.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280062.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/flamingo/280067.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/gerenuk/290034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/grand_piano/300040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/helicopter/310030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/kangaroo/320020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/ketch/330029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lamp/340030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/laptop/350030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/lobster/360030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/motorbike/370030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/nautilus/380029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/palace/390019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pizza/400030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/pyramid/410030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/revolver/420030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/saxophone/430020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/scissors/440030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/soccer_ball/450064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/strawberry/460020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/sunflower/470025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/tick/480021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/umbrella/490020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/BD_2/watch/500025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/gt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/dataset_1/queries/sketch_000053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_canny_helo_k_36_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_canny_helo_k_36_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_canny_helo_k_72_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_canny_helo_k_72_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_canny_helo_k_96_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_canny_helo_k_96_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_canny_hog_k_36.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_canny_hog_k_72.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_canny_hog_k_96.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_canny_shelo_k_36_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_canny_shelo_k_36_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_canny_shelo_k_72_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_canny_shelo_k_72_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_canny_shelo_k_96_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_canny_shelo_k_96_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_helo_k_36_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_helo_k_36_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_helo_k_72_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_helo_k_72_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_helo_k_96_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_helo_k_96_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_hog_k_36.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_hog_k_72.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_hog_k_96.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_shelo_k_36_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_shelo_k_36_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_shelo_k_72_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_shelo_k_72_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_shelo_k_96_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/data_shelo_k_96_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_canny_helo_k_36_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_canny_helo_k_36_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_canny_helo_k_72_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_canny_helo_k_72_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_canny_helo_k_96_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_canny_helo_k_96_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_canny_hog_k_36.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_canny_hog_k_72.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_canny_hog_k_96.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_canny_shelo_k_36_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_canny_shelo_k_36_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_canny_shelo_k_72_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_canny_shelo_k_72_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_canny_shelo_k_96_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_canny_shelo_k_96_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_helo_k_36_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_helo_k_36_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_helo_k_72_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_helo_k_72_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_helo_k_96_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_helo_k_96_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_hog_k_36.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_hog_k_72.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_hog_k_96.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_shelo_k_36_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_shelo_k_36_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_shelo_k_72_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_shelo_k_72_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_shelo_k_96_b_12.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/npy_data/queries_shelo_k_96_b_25.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/other/Gaoliang_Bridge.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/other/example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/other/helo_k36_b12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/other/helo_k36_b25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/other/helo_k72_b12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/other/helo_k72_b25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/other/helo_k96_b12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/other/helo_k96_b25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/other/hog_k36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/other/hog_k72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/other/hog_k96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/other/shelo_k36_b12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/other/shelo_k36_b25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/other/shelo_k72_b12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/other/shelo_k72_b25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/other/shelo_k96_b12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/other/shelo_k96_b25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_2/tarea_2.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,31 +1487,6 @@
     <expand />
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tarea_2/tarea_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8670">
-              <caret line="510" column="40" lean-forward="true" selection-start-line="510" selection-start-column="40" selection-end-line="510" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tarea_2/dataset_1/gt.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -58,52 +1494,14 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/tarea_2.py" />
-        <option value="$PROJECT_DIR$/tarea_1/tarea_1.py" />
-        <option value="$PROJECT_DIR$/tarea_2/tarea_2.py" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CC5508" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CC5508" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CC5508" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CC5508" type="462c0819:PsiDirectoryNode" />
-              <item name="tarea_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CC5508" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
+  <component name="ProjectId" id="1Qi9xMPOvQlfnbJTglLk18jOiLh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tarea_2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -128,7 +1526,55 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.tarea_3">
+    <configuration name="cuda_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CC5508" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="NUMBAPRO_NVVM" value="C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\nvvm\bin\nvvm64_32_0.dll" />
+        <env name="NUMBAPRO_LIBDEVICE" value="C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\nvvm\libdevice\" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cuda_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cudatest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CC5508" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="NUMBAPRO_NVVM" value="C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\nvvm\bin\nvvm64_31_0.dll" />
+        <env name="NUMBAPRO_LIBDEVICE" value="C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\nvvm\libdevice" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cudatest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tarea_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CC5508" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,8 +1599,39 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tarea_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CC5508" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tarea3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tarea3/tarea_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.cuda_test" />
+      <item itemvalue="Python.tarea_2" />
+      <item itemvalue="Python.tarea_3" />
+      <item itemvalue="Python.cudatest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tarea_3" />
+        <item itemvalue="Python.cudatest" />
+        <item itemvalue="Python.cuda_test" />
         <item itemvalue="Python.tarea_2" />
       </list>
     </recent_temporary>
@@ -185,70 +1662,46 @@
       <workItem from="1567788427538" duration="10374000" />
       <workItem from="1567869776334" duration="22071000" />
       <workItem from="1567950471765" duration="20055000" />
+      <workItem from="1568241660351" duration="260000" />
+      <workItem from="1568242319652" duration="194000" />
+      <workItem from="1568242830988" duration="595000" />
+      <workItem from="1570225921507" duration="9150000" />
+      <workItem from="1570289312296" duration="11689000" />
+      <workItem from="1570380092779" duration="3000" />
+      <workItem from="1570560204520" duration="6732000" />
+      <workItem from="1570994031340" duration="17164000" />
+      <workItem from="1571059157030" duration="118000" />
+      <workItem from="1571073874234" duration="6987000" />
+      <workItem from="1571099699620" duration="7302000" />
+      <workItem from="1571145316228" duration="12259000" />
+      <workItem from="1571165511235" duration="32000" />
+      <workItem from="1571166731055" duration="7181000" />
+      <workItem from="1571191739552" duration="537000" />
+      <workItem from="1571269888142" duration="4025000" />
+      <workItem from="1571321995545" duration="11314000" />
+      <workItem from="1571355365639" duration="449000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132359000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="1176" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19473007" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39980826" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3289689" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.5282838" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.75771207" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tarea_2/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/tarea_1/tarea_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="235" column="4" lean-forward="true" selection-start-line="235" selection-start-column="4" selection-end-line="235" selection-end-column="4" />
-          <folding>
-            <element signature="e#127#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tarea_2/tarea_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8670">
-          <caret line="510" column="40" lean-forward="true" selection-start-line="510" selection-start-column="40" selection-end-line="510" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tarea_2/dataset_1/gt.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CC5508$cuda_test.coverage" NAME="cuda_test Coverage Results" MODIFIED="1570566960486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CC5508$tarea_3.coverage" NAME="tarea_3 Coverage Results" MODIFIED="1571337917919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarea3" />
+    <SUITE FILE_PATH="coverage/CC5508$cudatest.coverage" NAME="cudatest Coverage Results" MODIFIED="1571189537211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
